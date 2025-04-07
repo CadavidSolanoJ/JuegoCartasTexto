@@ -1,0 +1,9 @@
+/build/
+*.class
+*.rs
+.nb-gradle/
+*.iml
+*.log
+*.bak
+.DS_Store
+*.swp
